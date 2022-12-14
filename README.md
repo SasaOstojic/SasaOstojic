@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **React**
 
-💬 Ask me about **WordPress**
+💬 Ask me about **WordPress**. I would be !
 
 Link to full production deployed websites that I have created from scratch ( frontend & backend ):
 
