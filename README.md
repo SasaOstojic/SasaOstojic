@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sasa Ostojic. </br> Welcome everyone to my GitHub profile!</h1>
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 💬 Ask me about **WordPress**
+💬 Ask me about **WordPress**
 
 Link to full production deployed websites that I have created from scratch(frontend & backend):
 
