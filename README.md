@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasa Ostojic.</h1>
+<h1 align="center">Welcome everyone to my GitHub profile!</h1>
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **WordPress**
