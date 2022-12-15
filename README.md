@@ -4,7 +4,7 @@
 
 💬 Ask me about **WordPress**. I would be happy to help you!
 
-<b>Links to full production deployed websites that I have created from scratch ( frontend & backend ):</b>
+<b><i>Links to full production deployed websites that I have created from scratch ( frontend & backend ):</i></b>
 
 1. <a href="https://audiovox.rs/">Audiovox</a>
 2. <a href="https://www.travelhouse.rs/">Travel House</a>
