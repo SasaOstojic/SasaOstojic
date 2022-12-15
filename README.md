@@ -6,7 +6,7 @@
 
 <b><i>Links to full production deployed apps and custom Wordpress websites (no page builder) that I have created from scratch ( frontend & backend - JS & PHP ):</i></b>
 
-1. <a href="https://play.google.com/store/apps/details?id=rs.org.crvenikrst011.prvapomoc">Crveni Krst Beograd</a>  *** REACT NATIVE ***
+1. <a href="https://play.google.com/store/apps/details?id=rs.org.crvenikrst011.prvapomoc">Crveni Krst Beograd</a>  *** React Native ***
 2. <a href="https://audiovox.rs/">Audiovox</a>
 3. <a href="https://www.travelhouse.rs/">Travel House</a>
 4. <a href="https://smartcat.io/">Smartcat data lab</a>
